@@ -1,8 +1,9 @@
 [![MasterHead](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040101/Linkedin_Cover_-_Data-Driven_t1tqsx.png)]
 <h1 align="center">Hi 👋, I'm Reshma Chikate</h1>
 <h3 align="center">A passionate data scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif">
-
+<p align="center">
+  <img width="300" alt="coding" src="https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshmachikate5&label=Profile%20views&color=0e75b6&style=flat" alt="reshmachikate5" /> </p>
 
 - 🔭 I’m currently working on **MLOps**
